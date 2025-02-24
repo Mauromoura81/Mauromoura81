@@ -1,6 +1,6 @@
 ## Hi there :computer:
 
-Me chamo Mauro Moura, sou Programador Front End, estudando e criando projetos com as seguintes tecnologias:
+Eu me chamo Mauro Moura, sou Programador Front End, estudando e criando projetos com as seguintes tecnologias:
 <br>
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
